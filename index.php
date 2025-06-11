@@ -9,7 +9,7 @@
   </head>
   <body>
     <header>
-      <h2 class="logo">PRODIGY INFOTECH</h2>
+      <h2 class="logo">LOGIN PAGE</h2>
       <nav class="navigation">
         <a href="#">Home</a>
         <a href="#">About Us</a>
